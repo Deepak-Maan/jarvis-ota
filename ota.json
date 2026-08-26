@@ -1,7 +1,7 @@
 {
-  "otaVersion": "1.0.2",
-  "otaVersionCode": 3,
+  "otaVersion": "1.0.3",
+  "otaVersionCode": 4,
   "bundleUrl": "https://raw.githubusercontent.com/Deepak-Maan/jarvis-ota/main/index.android.bundle",
-  "changelog": "• Futuristic Stark HUD UI & Arc Reactor animations\n• Multi-device Telegram network management (/devices, /select)\n• Fixed persistent OTA update confirmation",
+  "changelog": "• Full installed app listing & universal app launcher\n• Fixed file browser & storage viewer\n• Enhanced permissions & media access\n• Stark HUD UI & Arc Reactor",
   "mandatory": false
 }
