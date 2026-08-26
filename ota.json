@@ -1,7 +1,7 @@
 {
-  "otaVersion": "1.0.3",
-  "otaVersionCode": 4,
+  "otaVersion": "1.0.4",
+  "otaVersionCode": 5,
   "bundleUrl": "https://raw.githubusercontent.com/Deepak-Maan/jarvis-ota/main/index.android.bundle",
-  "changelog": "• Full installed app listing & universal app launcher\n• Fixed file browser & storage viewer\n• Enhanced permissions & media access\n• Stark HUD UI & Arc Reactor",
+  "changelog": "• WhatsApp Voice Announcer: Speaks incoming messages & sender name aloud\n• Send WhatsApp messages by voice or contact name\n• Interactive Photo Vault with full-screen preview\n• Visual File Explorer & Folder Browser",
   "mandatory": false
 }
