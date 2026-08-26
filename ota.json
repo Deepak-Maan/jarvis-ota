@@ -1,0 +1,7 @@
+﻿{
+  "otaVersion": "1.0.1",
+  "otaVersionCode": 2,
+  "bundleUrl": "https://raw.githubusercontent.com/Deepak-Maan/jarvis-ota/main/index.android.bundle",
+  "changelog": "• Default Telegram bot token hardcoded (8988512399...)\n• Automatic Telegram connection on app launch\n• Instant Over-The-Air (OTA) updates enabled",
+  "mandatory": true
+}
