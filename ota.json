@@ -1,7 +1,7 @@
 {
-  "otaVersion": "1.0.4",
-  "otaVersionCode": 5,
+  "otaVersion": "1.0.5",
+  "otaVersionCode": 6,
   "bundleUrl": "https://raw.githubusercontent.com/Deepak-Maan/jarvis-ota/main/index.android.bundle",
-  "changelog": "• WhatsApp Voice Announcer: Speaks incoming messages & sender name aloud\n• Send WhatsApp messages by voice or contact name\n• Interactive Photo Vault with full-screen preview\n• Visual File Explorer & Folder Browser",
+  "changelog": "• 24/7 Continuous Background Voice Recognition & Hotword\n• Voice Unlock: 'Jarvis unlock phone' or 'Wake up' wakes screen and unlocks keyguard\n• Background voice command execution & real-time TTS speech responses\n• WhatsApp voice announcer and sender integration",
   "mandatory": false
 }
