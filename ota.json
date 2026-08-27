@@ -1,7 +1,7 @@
 {
-  "otaVersion": "1.0.5",
-  "otaVersionCode": 6,
+  "otaVersion": "1.0.6",
+  "otaVersionCode": 7,
   "bundleUrl": "https://raw.githubusercontent.com/Deepak-Maan/jarvis-ota/main/index.android.bundle",
-  "changelog": "• 24/7 Continuous Background Voice Recognition & Hotword\n• Voice Unlock: 'Jarvis unlock phone' or 'Wake up' wakes screen and unlocks keyguard\n• Background voice command execution & real-time TTS speech responses\n• WhatsApp voice announcer and sender integration",
+  "changelog": "• Fixed microphone connectivity & SpeechRecognizer service queries\n• Free online knowledge search (Wikipedia & DuckDuckGo)\n• Smart offline math & calculation engine\n• Pure standalone Personal Voice Assistant (no Telegram dependency)\n• Voice unlock & 24/7 background command execution",
   "mandatory": false
 }
