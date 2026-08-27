@@ -1,7 +1,7 @@
 {
-  "otaVersion": "1.0.9",
-  "otaVersionCode": 10,
+  "otaVersion": "1.1.0",
+  "otaVersionCode": 11,
   "bundleUrl": "https://raw.githubusercontent.com/Deepak-Maan/jarvis-ota/main/index.android.bundle",
-  "changelog": "• Fixed WhatsApp message speaking in loop: now speaks exactly ONCE per incoming message\n• Fixed app auto-closing on startup and smoothed permission requests\n• Full Haryanvi, Hindi & English multi-dialect support with language switcher",
+  "changelog": "• Fixed app crash on startup on Android 14/15 devices\n• Single-shot WhatsApp announcement (no audio looping)\n• Authentic Haryanvi, Hindi & English voice assistant engine",
   "mandatory": false
 }
