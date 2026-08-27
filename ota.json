@@ -1,7 +1,7 @@
 {
-  "otaVersion": "1.1.0",
-  "otaVersionCode": 11,
+  "otaVersion": "1.1.1",
+  "otaVersionCode": 12,
   "bundleUrl": "https://raw.githubusercontent.com/Deepak-Maan/jarvis-ota/main/index.android.bundle",
-  "changelog": "• Fixed app crash on startup on Android 14/15 devices\n• Single-shot WhatsApp announcement (no audio looping)\n• Authentic Haryanvi, Hindi & English voice assistant engine",
+  "changelog": "• Added 'Hey Jarvis' hotword voice wake-up & unlock\n• Silenced annoying microphone on/off notification beep sounds\n• Fixed task audio looping & speaker self-hearing feedback\n• Single-shot WhatsApp message announcement (no loops)\n• Haryanvi, Hindi & English multi-dialect voice engine",
   "mandatory": false
 }
