@@ -1,7 +1,7 @@
 {
-  "otaVersion": "1.0.6",
-  "otaVersionCode": 7,
+  "otaVersion": "1.0.7",
+  "otaVersionCode": 8,
   "bundleUrl": "https://raw.githubusercontent.com/Deepak-Maan/jarvis-ota/main/index.android.bundle",
-  "changelog": "• Fixed microphone connectivity & SpeechRecognizer service queries\n• Free online knowledge search (Wikipedia & DuckDuckGo)\n• Smart offline math & calculation engine\n• Pure standalone Personal Voice Assistant (no Telegram dependency)\n• Voice unlock & 24/7 background command execution",
+  "changelog": "• Hindi (hi-IN) Voice Engine: Jarvis now speaks naturally in Hindi\n• Hindi & Bilingual Speech Recognition (हिंदी वॉयस कमांड)\n• WhatsApp Hindi Voice Announcer\n• Hindi phone controls (कॉल, ऐप्स, टॉर्च, अनलॉक, बैटरी)",
   "mandatory": false
 }
