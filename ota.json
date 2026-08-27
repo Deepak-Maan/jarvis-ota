@@ -1,7 +1,7 @@
 {
-  "otaVersion": "1.0.8",
-  "otaVersionCode": 9,
+  "otaVersion": "1.0.9",
+  "otaVersionCode": 10,
   "bundleUrl": "https://raw.githubusercontent.com/Deepak-Maan/jarvis-ota/main/index.android.bundle",
-  "changelog": "• 🌾 Full Desi Haryanvi Language Engine added (ठेठ हरियाणवी वॉयस व कमान्ड)\n• Haryanvi greetings, jokes, phone controls (टॉर्च चासो, फोन मिलाओ, व्हाट्सएप भेजो)\n• Language switcher in UI & voice (हरियाणवी, हिंदी, English)\n• WhatsApp Haryanvi Voice Announcer",
+  "changelog": "• Fixed WhatsApp message speaking in loop: now speaks exactly ONCE per incoming message\n• Fixed app auto-closing on startup and smoothed permission requests\n• Full Haryanvi, Hindi & English multi-dialect support with language switcher",
   "mandatory": false
 }
