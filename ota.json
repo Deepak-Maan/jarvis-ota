@@ -1,7 +1,7 @@
 {
-  "otaVersion": "1.0.7",
-  "otaVersionCode": 8,
+  "otaVersion": "1.0.8",
+  "otaVersionCode": 9,
   "bundleUrl": "https://raw.githubusercontent.com/Deepak-Maan/jarvis-ota/main/index.android.bundle",
-  "changelog": "• Hindi (hi-IN) Voice Engine: Jarvis now speaks naturally in Hindi\n• Hindi & Bilingual Speech Recognition (हिंदी वॉयस कमांड)\n• WhatsApp Hindi Voice Announcer\n• Hindi phone controls (कॉल, ऐप्स, टॉर्च, अनलॉक, बैटरी)",
+  "changelog": "• 🌾 Full Desi Haryanvi Language Engine added (ठेठ हरियाणवी वॉयस व कमान्ड)\n• Haryanvi greetings, jokes, phone controls (टॉर्च चासो, फोन मिलाओ, व्हाट्सएप भेजो)\n• Language switcher in UI & voice (हरियाणवी, हिंदी, English)\n• WhatsApp Haryanvi Voice Announcer",
   "mandatory": false
 }
