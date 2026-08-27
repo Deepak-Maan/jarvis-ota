@@ -1,7 +1,7 @@
 {
-  "otaVersion": "1.1.1",
-  "otaVersionCode": 12,
+  "otaVersion": "1.1.2",
+  "otaVersionCode": 13,
   "bundleUrl": "https://raw.githubusercontent.com/Deepak-Maan/jarvis-ota/main/index.android.bundle",
-  "changelog": "• Added 'Hey Jarvis' hotword voice wake-up & unlock\n• Silenced annoying microphone on/off notification beep sounds\n• Fixed task audio looping & speaker self-hearing feedback\n• Single-shot WhatsApp message announcement (no loops)\n• Haryanvi, Hindi & English multi-dialect voice engine",
+  "changelog": "• Set default spoken language and recognition to Indian English (en-IN)\n• Perfected futuristic holographic Arc Reactor UI & live soundwave visualizer\n• Fixed microphone 'no permission given' check on all Android devices\n• Added Iron Man Protocols (House Party, Stealth Mode, Good Night)\n• Added Voice Notes, Timers, WhatsApp to Contact direct sender, Coin Toss & Dice\n• Added Morning Briefing, Music auto-player, Maps navigation, and Camera",
   "mandatory": false
 }
