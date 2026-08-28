@@ -1,7 +1,7 @@
 {
-  "otaVersion": "1.1.7",
-  "otaVersionCode": 18,
+  "otaVersion": "1.1.8",
+  "otaVersionCode": 19,
   "bundleUrl": "https://raw.githubusercontent.com/Deepak-Maan/jarvis-ota/main/index.android.bundle",
-  "changelog": "• Completely silenced microphone start & stop system beeps\n• Unified Native-to-JS Speech Engine with zero-latency Event Emitter bridge\n• Fixed foreground & background voice command conflicts\n• Hands-free 24/7 background voice command execution\n• Auto Charger Plug-In, Unplug & 100% Full Battery Voice Automation\n• Auto Bluetooth & Earbuds Audio Connect Routine with volume leveling\n• Direct Contact Phone Calling & Voice WhatsApp Dictation for Deepak Sir\n• Voice Task & To-Do List Manager with interactive TaskModal",
+  "changelog": "• Intelligent Fuzzy Contact Matching (e.g. 'Sahil MTB' auto-matched when voice hears 'Sahil MTV')\n• Crisp Male Indian English Voice Engine (Google TTS Male models with 0.85 pitch)\n• Screen-Off & Locked Device Voice Execution (wakes phone over lockscreen on 'Jarvis wake up')\n• Smart Sleep & Wake Standby Protocol ('Jarvis wake up' & 'Sleep Jarvis')\n• Silenced Microphone Start & Stop System Beeps\n• Unified Native-to-JS Speech Engine with zero latency\n• 24/7 Background Automations (Charger, 100% Battery, Bluetooth & Headphones)\n• Direct Phone Calls & WhatsApp Voice Dictation for Deepak Sir",
   "mandatory": false
 }
