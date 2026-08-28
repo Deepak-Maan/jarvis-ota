@@ -1,7 +1,7 @@
 {
-  "otaVersion": "1.1.2",
-  "otaVersionCode": 13,
+  "otaVersion": "1.1.3",
+  "otaVersionCode": 14,
   "bundleUrl": "https://raw.githubusercontent.com/Deepak-Maan/jarvis-ota/main/index.android.bundle",
-  "changelog": "• Set default spoken language and recognition to Indian English (en-IN)\n• Perfected futuristic holographic Arc Reactor UI & live soundwave visualizer\n• Fixed microphone 'no permission given' check on all Android devices\n• Added Iron Man Protocols (House Party, Stealth Mode, Good Night)\n• Added Voice Notes, Timers, WhatsApp to Contact direct sender, Coin Toss & Dice\n• Added Morning Briefing, Music auto-player, Maps navigation, and Camera",
+  "changelog": "• Personalized J.A.R.V.I.S. to address user exclusively as 'Deepak Sir' across all features\n• Set default voice to J.A.R.V.I.S. Classic (Option 1: Deep, refined baritone AI)\n• Added Health & Hydration Bio-Guardian (Water logger, 20-20-20 eye care, posture stretch, health reports)\n• Permanently eliminated microphone false error glitch on tap-to-speak\n• Enhanced 'Hey Jarvis' multi-candidate and phonetic hotword detection\n• Optimized full display and edge-to-edge layout for bezel-less screens",
   "mandatory": false
 }
