@@ -1,7 +1,7 @@
 {
-  "otaVersion": "1.1.6",
-  "otaVersionCode": 17,
+  "otaVersion": "1.1.7",
+  "otaVersionCode": 18,
   "bundleUrl": "https://raw.githubusercontent.com/Deepak-Maan/jarvis-ota/main/index.android.bundle",
-  "changelog": "• Unified Native-to-JS Speech Engine with zero-latency Event Emitter bridge\n• Fixed foreground & background voice command conflicts\n• Hands-free 24/7 background voice command execution (music, torch, volume, party mode, battery, calls, WhatsApp, jokes, quotes, water)\n• Auto Charger Plug-In, Unplug & 100% Full Battery Voice Automation\n• Auto Bluetooth & Earbuds Audio Connect Routine with volume leveling\n• Direct Contact Phone Calling & Voice WhatsApp Dictation for Deepak Sir\n• Voice Task & To-Do List Manager with interactive TaskModal\n• 5 Holographic Armor Themes & Collapsible Telemetry HUD Dashboard",
+  "changelog": "• Completely silenced microphone start & stop system beeps\n• Unified Native-to-JS Speech Engine with zero-latency Event Emitter bridge\n• Fixed foreground & background voice command conflicts\n• Hands-free 24/7 background voice command execution\n• Auto Charger Plug-In, Unplug & 100% Full Battery Voice Automation\n• Auto Bluetooth & Earbuds Audio Connect Routine with volume leveling\n• Direct Contact Phone Calling & Voice WhatsApp Dictation for Deepak Sir\n• Voice Task & To-Do List Manager with interactive TaskModal",
   "mandatory": false
 }
