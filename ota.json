@@ -1,7 +1,7 @@
 {
-  "otaVersion": "1.1.5",
-  "otaVersionCode": 16,
+  "otaVersion": "1.1.6",
+  "otaVersionCode": 17,
   "bundleUrl": "https://raw.githubusercontent.com/Deepak-Maan/jarvis-ota/main/index.android.bundle",
-  "changelog": "• Added Voice Task & To-Do List Manager with interactive holographic TaskModal\n• Added Direct Contact Phone Calling & Voice WhatsApp Dictation for Deepak Sir\n• Added Auto Charger Plug-In, Unplug & 100% Full Battery Voice Automation\n• Added Auto Bluetooth & Headphone Audio Connect Routine with volume leveling\n• Added 5 Holographic Armor Themes (Mark VII, Hulkbuster, Stealth, Nanotech, Amber)\n• Added Collapsible Live Telemetry Dashboard HUD (RAM, Battery, Storage, Voice Engine)\n• Added Chat Bubble Action Chips (🔊 Replay Voice and 📋 Copy Text)\n• Added Haptic Tactile Feedback Engine on taps, mic toggle, and protocol rumbles\n• Added Always-Visible 3-Tab Language Selector Bar (English, Hindi, Haryanvi)",
+  "changelog": "• Unified Native-to-JS Speech Engine with zero-latency Event Emitter bridge\n• Fixed foreground & background voice command conflicts\n• Hands-free 24/7 background voice command execution (music, torch, volume, party mode, battery, calls, WhatsApp, jokes, quotes, water)\n• Auto Charger Plug-In, Unplug & 100% Full Battery Voice Automation\n• Auto Bluetooth & Earbuds Audio Connect Routine with volume leveling\n• Direct Contact Phone Calling & Voice WhatsApp Dictation for Deepak Sir\n• Voice Task & To-Do List Manager with interactive TaskModal\n• 5 Holographic Armor Themes & Collapsible Telemetry HUD Dashboard",
   "mandatory": false
 }
